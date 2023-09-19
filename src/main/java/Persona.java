@@ -1,7 +1,7 @@
 import jakarta.persistence.*;
 
-@Inheritance(strategy = InheritanceType.TABLE_PER_CLASS)
 @Entity
+@Inheritance(strategy = InheritanceType.TABLE_PER_CLASS)
 public abstract class Persona {
 
     @Id
@@ -14,7 +14,7 @@ public abstract class Persona {
     @JoinColumn(name = "direccion_id", referencedColumnName = "id")
     private Direccion direccion;
 
-    @Convert
+    @Convert(converter = MedioComunicacionConverter.class)
     private MedioComunicacion medioPreferido;
 
 
