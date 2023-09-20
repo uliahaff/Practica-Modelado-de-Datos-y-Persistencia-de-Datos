@@ -13,6 +13,7 @@ public class PersonaJuridica extends Persona {
     @Column(name = "email")
     private List<String> emailsDeContacto;
 
+    @Convert(converter = LocalDateAttributeConverter.class)
     @Column(name = "fecha_constitucion")
     private LocalDate fechaConstitucion;
 

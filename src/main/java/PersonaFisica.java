@@ -12,6 +12,7 @@ public class PersonaFisica extends Persona {
     @Column(name = "mail")
     private String mail;
 
+    @Convert(converter = LocalDateAttributeConverter.class)
     @Column(name = "fecha_de_nacimiento")
     private LocalDate fechaDeNacimiento;
 
