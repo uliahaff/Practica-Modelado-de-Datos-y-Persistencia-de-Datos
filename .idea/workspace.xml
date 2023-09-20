@@ -8,21 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e8db598-3509-4417-82d3-a6312ed39669" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Practica-Modelado-de-Datos-y-Persistencia-de-Datos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MedioComunicacionConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Direccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Direccion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PersonaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PersonaFisica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PersonaJuridica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PersonaJuridica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Telegram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Telegram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/medioNotificacionConverter.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,9 +215,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Tomas/Documents/Git Repository/ma-pro-services"
+    "last_opened_file_path": "/home/luis/Desktop/Practica-Modelado-de-Datos-y-Persistencia-de-Datos"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
